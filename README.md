@@ -3,7 +3,7 @@ This example demonstrates the some mechanisms for embedding custom CSS and Javas
 
 <style>
     .bigText {
-        font-size: 4rem;
+        font-size: 2rem;
     }
 </style>
 
