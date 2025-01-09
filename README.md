@@ -1,5 +1,5 @@
 # Custom CSS and JavaScript in a Juncture Essay
-This example demonstrates the some mechanisms for embedding custom CSS and Javascript.
+This example page demonstrates the some mechanisms for embedding custom CSS and Javascript.
 
 
 <p class='smallText' markdown>
