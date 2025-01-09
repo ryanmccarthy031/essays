@@ -3,7 +3,7 @@ This example demonstrates the two mechanisms for embedding custom CSS and Javasc
 
 <style>
     .assignedClass {
-        color: red;
+        color: red !important;
     }
 </style>
 
