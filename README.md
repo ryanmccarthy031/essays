@@ -8,7 +8,7 @@ This example demonstrates the some mechanisms for embedding custom CSS and Javas
 </style>
 
 <p class='bigText' markdown>
-This text is large because of inline styles assigned to the class. It still allows **Markdown**.
+This text is large because of inline styles assigned to the class. It still allows *Markdown*.
 </p>
 
 .ve-style ./custom.css
