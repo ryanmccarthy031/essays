@@ -3,7 +3,7 @@ This example demonstrates the some mechanisms for embedding custom CSS and Javas
 
 
 <p class='smallText' markdown>
-This text is large because of inline styles assigned to a custom class. It still allows *Markdown*.
+This text is small because of inline styles assigned to a custom class. It still allows *Markdown*.
 </p>
 <style>
     .smallText {
