@@ -8,7 +8,7 @@ This example demonstrates the some mechanisms for embedding custom CSS and Javas
 </style>
 
 <p class='bigText' markdown>
-**Another paragraph** which allows *Markdown* within it.
+This text is large because of inline styles assigned to the class. It still allows **Markdown**.
 </p>
 
 .ve-style ./custom.css
