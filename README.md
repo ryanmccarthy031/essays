@@ -1,8 +1,6 @@
 # Custom CSS and JavaScript in a Juncture Essay
 This example page demonstrates the some mechanisms for embedding custom CSS and Javascript.
 
-.ve-media jstor:community.26294128
-
 <p class='smallText' markdown>
 This text is small because of inline styles assigned to a custom class in a wrapper paragraph element that will only be visible in a code editor. It still allows *Markdown*.
 </p>
