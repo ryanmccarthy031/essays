@@ -1,10 +1,3 @@
-<param ve-config 
-       title="Sixteenth to Eighteenth"
-       author="rrrrr"
-       banner="https://github.com/user-attachments/assets/8bde6ddb-d29e-4bb4-9a40-641eaf9a7139"
-       layout="vertical">
-
-
 # Custom CSS and JavaScript in a Juncture Essay
 This example page demonstrates the some mechanisms for embedding custom CSS and Javascript.
 
