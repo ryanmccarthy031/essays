@@ -2,7 +2,7 @@
 This example page demonstrates the some mechanisms for embedding custom CSS and Javascript.
 
 .ve-media ./media/test_image.jpg
-.ve-media https://github.com/ryanmccarthy031/media/blob/main/waterfall/waterfall.jpeg
+.ve-media ./media/ryanmccarthy031/media/waterfall
 <p class='smallText' markdown>
 This text is small because of inline styles assigned to a custom class in a wrapper paragraph element that will only be visible in a code editor. It still allows *Markdown*.
 </p>
