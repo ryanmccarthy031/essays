@@ -2,7 +2,7 @@
 This example page demonstrates the some mechanisms for embedding custom CSS and Javascript.
 
 
-.ve-map 39.56933,-75.97695 12 sticky right width=50%
+.ve-map 39.56933,-75.97695 12  right width=50%
     - 29.56933,-65.97695
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sed sagittis ex, vel vehicula enim. Donec ultrices nunc id scelerisque ultrices. Maecenas nunc lorem, tristique non tincidunt sit amet, bibendum quis lorem. Nulla congue nec erat nec commodo. Phasellus ullamcorper sodales quam, sed congue nunc dictum sit amet. Donec et finibus mi. Curabitur eget eros at nibh facilisis sagittis vel a massa. Curabitur nec est a urna venenatis viverra. Donec cursus sem id elit placerat, consequat posuere elit vestibulum.
 
