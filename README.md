@@ -3,7 +3,7 @@ This example page demonstrates the some mechanisms for embedding custom CSS and 
 
 .ve-media gh:juncture-digital/juncture/static/images/juncture-logo.png
 
-.ve-map Q93195 9 right
+.ve-map Q93195 9 right sticky
 	- Q10686
 	- Q1761
 
