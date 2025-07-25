@@ -1,7 +1,7 @@
 # Custom CSS and JavaScript in a Juncture Essay
 This example page demonstrates the some mechanisms for embedding custom CSS and Javascript.
 
-.ve-map Q93195 right
+.ve-map Q93195 9 right
 
 .ve-map 39.56933,-75.97695 12 width=50%
 
