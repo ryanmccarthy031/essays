@@ -1,7 +1,7 @@
 # Custom CSS and JavaScript in a Juncture Essay
 This example page demonstrates the some mechanisms for embedding custom CSS and Javascript.
 
-.ve-map 39.56933,-75.97695 23 width=50%
+.ve-map 39.56933,-75.97695 12 width=50%
 
 .ve-media gh:juncture-digital/juncture/static/images/juncture-logo.png
 
