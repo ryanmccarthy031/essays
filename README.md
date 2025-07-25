@@ -1,14 +1,12 @@
 # Custom CSS and JavaScript in a Juncture Essay
 This example page demonstrates the some mechanisms for embedding custom CSS and Javascript.
 
-.ve-map Q93195 9 right
 
-.ve-map 39.56933,-75.97695 12 width=50%
+.ve-map 39.56933,-75.97695 12 sticky right width=50%
 
 .ve-media gh:juncture-digital/juncture/static/images/juncture-logo.png
 
 
-{flyto=Q180402}
 
 <p class='smallText' markdown>
 This text is small because of inline styles assigned to a custom class in a wrapper paragraph element that will only be visible in a code editor. It still allows *Markdown*.
