@@ -3,9 +3,10 @@ This example page demonstrates the some mechanisms for embedding custom CSS and 
 
 .ve-media gh:juncture-digital/juncture/static/images/juncture-logo.png
 
+.ve-map 39.56933,-75.97695?z=16 100 right
+
 .ve-map 42.281,-83.748 9 width=50%
 
-.ve-map 39.56933,-75.97695?z=16 2 right
 
 <p class='smallText' markdown>
 This text is small because of inline styles assigned to a custom class in a wrapper paragraph element that will only be visible in a code editor. It still allows *Markdown*.
