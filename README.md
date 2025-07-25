@@ -4,6 +4,7 @@ This example page demonstrates the some mechanisms for embedding custom CSS and 
 .ve-media gh:juncture-digital/juncture/static/images/juncture-logo.png
 
 .ve-map 42.281,-83.748 9 width=50%
+.ve-map Q93195 9 right
 
 
 <p class='smallText' markdown>
