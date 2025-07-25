@@ -11,7 +11,7 @@ MacMasters recounts... "The Linen Board, created by the Irish Parliament in 1711
 
 
 Merchants in America coordinated this new colonial flax seed export.  "Hugh Davey and Samuel Carson, and several others, had established a base at Charlestown, Cecil County, Maryland where they could purchase wheat, flour & flaxseed " (MacMaster, 2009 p201 as cited by Johnston, 1881). [^8]   "From 1745-1750 Davey & Carson, merchants of falxseed, flour, wheat, rum and general dry goods, documented shipments of flaxseed in hogsheads in their letterbook correspondence." [^9]. This Maryland location was in close proximity to Pennsylvania trading centers in areas such as Philadelphia, Carlisle and Lancaster providng a gateway for trade and commerce. Development in infrastructure such as the Pennsylvania and Forbes Road further enabled trade between the eastern and western parts of the Pennsylvania colony [^10] .
-{enter=flyto:Q180402}
+{enter=flyto:Q10686}
 
 
 
